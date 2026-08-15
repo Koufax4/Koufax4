@@ -72,9 +72,11 @@ why:       I like the moment a thing finally works
 
 <img src="https://skillicons.dev/icons?i=python,flask,mongodb,firebase,flutter,androidstudio,aws,gcp&theme=dark" />
 
-**Cut** — where the footage goes
+**Cut** — footage, edits, and quick graphics
 
 <img src="https://img.shields.io/badge/DaVinci%20Resolve-161B22?style=for-the-badge&logo=davinciresolve&logoColor=F2A65A" />
+<img src="https://img.shields.io/badge/CapCut-161B22?style=for-the-badge&logo=capcut&logoColor=F2A65A" />
+<img src="https://img.shields.io/badge/Canva-161B22?style=for-the-badge&logo=canva&logoColor=F2A65A" />
 
 <sub>Also working with Oracle DB.</sub>
 
