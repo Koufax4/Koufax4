@@ -14,11 +14,11 @@
 ═══════════════════════════════════════════════════════════════════
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&fontSize=42&fontColor=C9D1D9&text=Aung%20Htin%20Shar&desc=UI%2FUX%20designer%20who%20stays%20for%20the%20build&descSize=16&descAlignY=70&fontAlignY=42&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&fontSize=42&fontColor=C9D1D9&text=Aung%20Htin%20Shar&desc=design%20%C2%B7%20code%20%C2%B7%20video%20%E2%80%94%20I%20just%20really%20like%20making%20things&descSize=16&descAlignY=70&fontAlignY=42&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=F2A65A&center=true&vCenter=true&width=560&lines=Figma+on+the+left%2C+terminal+on+the+right;Prototype+it+%E2%86%92+ship+it+%E2%86%92+refine+it;Yangon+%E2%86%92+Bangkok%2C+still+shipping" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=F2A65A&center=true&vCenter=true&width=580&lines=Figma+on+the+left%2C+terminal+on+the+right;A+Resolve+timeline+open+at+2AM;Not+a+specialist+%E2%80%94+just+curious+about+all+of+it;Yangon+%E2%86%92+Bangkok%2C+still+shipping" />
 
 <br/><br/>
 
@@ -40,12 +40,12 @@
 
 ```yaml
 name:      Aung Htin Shar
-role:      UI/UX designer · frontend developer
+doing:     interfaces, frontend code, and video edits
 from:      Myanmar
 based:     Bangkok, Thailand
 working:   student dashboard web-app for a language school (remote)
 learning:  advanced UX — design systems, motion, accessibility
-method:    design until it feels right, then build until it is right
+why:       I like the moment a thing finally works
 ```
 
 ---
@@ -56,6 +56,7 @@ method:    design until it feels right, then build until it is right
 |---|---|
 | **Shipping** | A student dashboard that makes coursework feel less like admin |
 | **Studying** | Advanced UX — component libraries, motion timing, a11y |
+| **Cutting** | Video in DaVinci Resolve — color, sound, the whole timeline |
 | **Vibe coding** | Side projects at 1AM, headphones on, no ticket number |
 | **Ask me about** | Design systems, React + Tailwind, turning a Figma file into real UI |
 
@@ -70,6 +71,10 @@ method:    design until it feels right, then build until it is right
 **Engine** — what holds it up
 
 <img src="https://skillicons.dev/icons?i=python,flask,mongodb,firebase,flutter,androidstudio,aws,gcp&theme=dark" />
+
+**Cut** — where the footage goes
+
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-161B22?style=for-the-badge&logo=davinciresolve&logoColor=F2A65A" />
 
 <sub>Also working with Oracle DB.</sub>
 
@@ -107,9 +112,12 @@ method:    design until it feels right, then build until it is right
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=koufax4&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0E14&title_color=F2A65A&icon_color=6B7686&text_color=C9D1D9&ring_color=F2A65A" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=koufax4&layout=compact&hide_border=true&langs_count=8&bg_color=0B0E14&title_color=F2A65A&text_color=C9D1D9" />
+<!-- Generated locally by .github/workflows/readme-cards.yml — no external service to go down.
+     Colors are set in that workflow's `options:` string, not here. -->
+<img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 
+<!-- The one card still hotlinked to a third-party service. If it breaks, delete this line. -->
 <img height="160" src="https://streak-stats.demolab.com?user=koufax4&hide_border=true&background=0B0E14&stroke=262C36&ring=F2A65A&fire=F2A65A&currStreakLabel=F2A65A&sideLabels=C9D1D9&dates=6B7686&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
@@ -141,7 +149,7 @@ method:    design until it feels right, then build until it is right
 <!-- Uncomment once you have the handles:
 <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/linkedin-161B22?style=for-the-badge&logo=linkedin&logoColor=C9D1D9" /></a>
 <a href="https://behance.net/YOUR-HANDLE"><img src="https://img.shields.io/badge/behance-161B22?style=for-the-badge&logo=behance&logoColor=C9D1D9" /></a>
-<a href="https://dribbble.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/dribbble-161B22?style=for-the-badge&logo=dribbble&logoColor=C9D1D9" /></a>
+<a href="https://youtube.com/@YOUR-HANDLE"><img src="https://img.shields.io/badge/youtube-161B22?style=for-the-badge&logo=youtube&logoColor=C9D1D9" /></a>
 -->
 
 <br/><br/>
