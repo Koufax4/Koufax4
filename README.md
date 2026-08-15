@@ -156,12 +156,7 @@ why:       I like the moment a thing finally works
 
 <br/><br/>
 
-<!-- Replace YOUR_UID after connecting at https://spotify-github-profile.kittinanx.com/api/login -->
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&bar_color=F2A65A&bar_color_cover=false" width="340" />
-</a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=koufax4&label=profile%20views&color=F2A65A&style=flat-square" />
 
